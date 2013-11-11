@@ -10,7 +10,6 @@ ro.gps.set_privacy=1
 ro.telephony.default_network=8
 telephony.lteOnCdmaDevice=1
 telephony.sms.pseudo_multipart=1
-dalvik.vm.dexopt-data-only=1
 
 # More ril props
 persist.radio.snapshot_enabled=1
