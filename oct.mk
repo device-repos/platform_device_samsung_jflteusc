@@ -1,7 +1,7 @@
 $(call inherit-product, device/samsung/jflteusc/full_jflteusc.mk)
 
 # Inherit some common OCT stuff.
-$(call inherit-product, vendor/oct/config/cdma.mk)
+#$(call inherit-product, vendor/oct/config/cdma.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/oct/config/nfc_enhanced.mk)
